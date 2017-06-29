@@ -2,9 +2,14 @@
       font: 20px Montserrat, sans-serif;
       line-height: 1.8;
       color: #f5f6f7;
+      letter-spacing: 2px;
   }
   p {
     font-size: 16px;
+  }
+  img{
+    width: 150px;
+    height: 150px;
   }
   .margin {
     margin-bottom: 45px;
@@ -19,7 +24,8 @@
       background-color: white; /*white*/
       color: #808080;
   }
-  .bg-3 { 
+  .bg-3 {
+      height: 100vh;
       background-color: #ffffff; /* White */
       color: #555555;
   }
@@ -36,8 +42,8 @@
       border: 0;
       border-radius: 0;
       margin-bottom: 0;
-      font-size: 12px;
-      letter-spacing: 5px;
+      font-size: 16px;
+      letter-spacing: 2px;
   }
   .navbar-nav  li a:hover {
       color: #1abc9c !important;
@@ -56,4 +62,7 @@
   .servicios{
     background-color: #CFCFCF;
     height: 300px;
+  }
+  .nosotros{
+
   }
